@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhista2002
+- 👋 Hi, I’m Abhi
 - 👀 I’m interested in FEM, CFD, CAD, Graphics and Meshing
 - 🌱 I’m currently learning CFD and Graphics
 - 💞️ I’m looking to collaborate on Open source software for CAD, CFD, FEM, Graphics
